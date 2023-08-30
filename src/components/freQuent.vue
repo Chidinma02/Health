@@ -51,6 +51,7 @@ export default {
 </script>
 
 <style>
+
 .bu{
   display: flex;
       justify-content: center;
@@ -67,7 +68,7 @@ export default {
 }
 .subscribe{
   background-color:#18564C;
-  margin-top:250px;
+  margin-top:200px;
   color:white;
   /* padding-top:20px;
   padding-top:20px; */

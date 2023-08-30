@@ -3,7 +3,7 @@
     <div class="container mt-5 ">
       <div class="row mt-5">
         <div class="col-12">
-          <h4 class="text-center blog cont">Our Blog</h4>
+          <h3 class="text-center blog cont">Our Blog</h3>
         </div>
       
       </div>
@@ -12,8 +12,8 @@
           <div class="card car" style="width: 18rem;">
   <img src="../assets/Frame 81 (1).png" class="card-img-top" alt="...">
   <div class="card-body">
-    <h5>Headline Text</h5>
-    <p class="">Some qu</p>
+    <h5 class="he">Headline Text</h5>
+    <p class="">Lorem ipsum dolor sit amet consectetur adipisicing elit. Delectus sit pariatur aut expedita ipsum, minima incidunt, neque possimus beatae exercitationem vitae modi! A distinctio, vel sed eveniet officia enim aliquam.</p>
   </div>
 </div>
         </div>
@@ -21,7 +21,9 @@
           <div class="card car" style="width: 18rem;">
   <img src="../assets/Frame 81.png" class="card-img-top" alt="...">
   <div class="card-body">
-    <p class="">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
+    <h5 class="he">Headline Text</h5>
+    <p class="">Lorem ipsum dolor sit amet consectetur adipisicing elit. Delectus sit pariatur aut expedita ipsum, minima incidunt, neque possimus beatae exercitationem vitae modi! A distinctio, vel sed eveniet officia enim aliquam.</p>
+ 
   </div>
 </div>
         </div>
@@ -29,7 +31,9 @@
           <div class="card car" style="width: 18rem;">
   <img src="../assets/Frame 81 (2).png" class="card-img-top" alt="...">
   <div class="card-body">
-    <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
+    <h5 class="he">Headline Text</h5>
+    <p class="">Lorem ipsum dolor sit amet consectetur adipisicing elit. Delectus sit pariatur aut expedita ipsum, minima incidunt, neque possimus beatae exercitationem vitae modi! A distinctio, vel sed eveniet officia enim aliquam.</p>
+ 
   </div>
 </div>
         </div>
@@ -75,5 +79,11 @@ export default {
 .cont{
   margin-top:50px;
   margin-bottom:30px !important;
+  color:#18564C;
+  font-weight: bold;
+}
+.he{
+  color:#18564C;
+  
 }
 </style>

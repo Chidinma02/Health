@@ -16,6 +16,17 @@ export default {
 }
 </script>
 <style>
+@font-face {
+  font-family: 'CustomFont'; /* Provide a name for your font */
+  src: url('./assets/font/Inter-VariableFont_slnt\,wght.ttf') format('ttf');
+     
+  font-weight: normal;
+  font-style: normal;
+}
+ *{
+	font-family:'CustomFont';
+  /* color:#258576; */
+ }
 *{
   padding: 0px ;
   MARGIN:0px ;

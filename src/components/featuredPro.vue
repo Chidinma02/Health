@@ -1,6 +1,10 @@
 <template>
     
     <div>
+     
+      <div class="container">
+        <h3 class="mt-5 fea">Featured Products</h3>
+      </div>
         <div id="carouselExampleControls" class="carousel carousel-dark slide" data-bs-ride="carousel">
   <div class="carousel-inner">
     <div class="carousel-item active">
@@ -113,7 +117,18 @@ export default {
 
 </script>
 
-<style>.card{
+<style>
+@font-face {
+  font-family: 'Custom'; /* Provide a name for your font */
+  src: url('../assets/font/Millik\ Regular.otf') format('otf');
+     
+  font-weight: normal;
+  font-style: normal;
+}
+ .fea{
+	font-family:'Custom';
+  color:#258576;
+ }.card{
     padding:0;
     
   }
