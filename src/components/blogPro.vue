@@ -8,31 +8,31 @@
       
       </div>
       <div class="row">
-        <div class="col-12 col-md-4">
-          <div class="card car" style="width: 18rem;">
+        <div class="col-12 col-md-4 ">
+          <div class="card car" style="width: ;">
   <img src="../assets/Frame 81 (1).png" class="card-img-top" alt="...">
   <div class="card-body">
     <h5 class="he">Headline Text</h5>
-    <p class="">Lorem ipsum dolor sit amet consectetur adipisicing elit. Delectus sit pariatur aut expedita ipsum, minima incidunt, neque possimus beatae exercitationem vitae modi! A distinctio, vel sed eveniet officia enim aliquam.</p>
+    <p class="">Lorem ipsum dolor neque possimusd eveniet officia enim aliquam.</p>
   </div>
 </div>
         </div>
-        <div class="col-12 col-md-4">
-          <div class="card car" style="width: 18rem;">
+        <div class="col-12 col-md-4 ">
+          <div class="card car" style="width: ;">
   <img src="../assets/Frame 81.png" class="card-img-top" alt="...">
   <div class="card-body">
     <h5 class="he">Headline Text</h5>
-    <p class="">Lorem ipsum dolor sit amet consectetur adipisicing elit. Delectus sit pariatur aut expedita ipsum, minima incidunt, neque possimus beatae exercitationem vitae modi! A distinctio, vel sed eveniet officia enim aliquam.</p>
+    <p class="">Lorem ipsum dolor sit amet consectetur ,A distinctio, vel sed eve enim aliquam.</p>
  
   </div>
 </div>
         </div>
-        <div class="col-12 col-md-4">
-          <div class="card car" style="width: 18rem;">
+        <div class="col-12 col-md-4 ">
+          <div class="card car" style="width: ;">
   <img src="../assets/Frame 81 (2).png" class="card-img-top" alt="...">
   <div class="card-body">
     <h5 class="he">Headline Text</h5>
-    <p class="">Lorem ipsum dolor sit amet consectetur adipisicing elit. Delectus sit pariatur aut expedita ipsum, minima incidunt, neque possimus beatae exercitationem vitae modi! A distinctio, vel sed eveniet officia enim aliquam.</p>
+    <p class="">Lorem ipsum dolor sit amet consectetur vel sed eveniet officia enim aliquam.</p>
  
   </div>
 </div>

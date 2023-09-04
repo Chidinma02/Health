@@ -1,7 +1,13 @@
 <template>
  
 
-  <div class="container can mt-5">
+  <div class="container can mt-">
+    <div class="row">
+        <div class="col-12 so">
+          <h3 class="de">Frequently asked Questions and Answers</h3>
+          <p>What is on your mind about us</p>
+        </div>
+    </div>
   <div class="accordion" id="accordionExample">
     <div class="card">
       <div class="card-header " id="headingOne" data-toggle="collapse" data-target="#collapseOne">
@@ -51,6 +57,14 @@ export default {
 </script>
 
 <style>
+.de{
+  color:#18564C;
+    font-family: 'Customfont';
+    font-weight:bold;
+}
+.so{
+  text-align: center;
+}
 
 .bu{
   display: flex;
@@ -76,11 +90,12 @@ export default {
   display: flex;
       justify-content: center;
       align-items: center;
-      height: 42vh; 
+      height: 42%; 
       margin-bottom: 100px;
       padding-left: 20px;
       padding-right:20px;
-      
+      padding-top:40px;
+      padding-bottom:40px;
 }
 template{
   background-color:white !important;

@@ -1,6 +1,6 @@
 <template>
     <div>
-        <div class="container mt-5 mb-5">
+        <div class="container mt-5 ">
             <div class="row mt-5">
                 <div class="col-12">
                     <h3 class="text-center tex">Our Partners</h3>
@@ -17,16 +17,16 @@
 		</div>
        
            <div>
-            <div class="slider-area">
+            <div class="slider-area f">
 		<h2>Our Clients</h2>
 		<div class="wrapper">
 			<div class="item"><img alt="" src="../assets/f1.png" class="img-fluid "></div>
-			<div class="item"><img alt="" src="../assets/f2.png" class="img-fluid ml-5 mr-5 ml "></div>
-			<div class="item"><img alt="" src="../assets/f3.png" class="img-fluid ml-5 mr-5 ml "></div>
-			<div class="item"><img alt="" src="../assets/f4.png" class="img-fluid ml-5 mr-5 ml"></div>
-			<div class="item"><img alt="" src="../assets/f5.png" class="img-fluid ml-5 mr-5 ml"></div>
-            <div class="item"><img alt="" src="../assets/f6.png" class="img-fluid ml-5 mr-5 ml"></div>
-            <div class="item"><img alt="" src="../assets/f7.png" class="img-fluid ml-5 mr-5 ml"></div>
+			<div class="item"><img alt="" src="../assets/f2.png" class="img-fluid ml-5 mr-5 ml mtwo "></div>
+			<div class="item"><img alt="" src="../assets/Group-69.png" class="img-fluid ml-5 mr-5 ml mthr"></div>
+			<div class="item"><img alt="" src="../assets/f4.png" class="img-fluid ml-5 mr-5 ml mfour"></div>
+			<div class="item"><img alt="" src="../assets/f5.png" class="img-fluid ml-5 mr-5  mu"></div>
+            <div class="item"><img alt="" src="../assets/f6.png" class="img-fluid ml-5 mr-5 ml msix"></div>
+            <div class="item"><img alt="" src="../assets/f7.png" class="img-fluid ml-5 mr-5 ml mseven"></div>
 		</div>
 	</div>
            </div>
@@ -43,15 +43,41 @@ name:'ourProject'
 </script>
 
 <style>
-
+.f{
+	margin-top:-100px !important; 
+}
 .ml{
     margin-right:200px !important;
 	width:220.75px;
 	height:60px;
 }
+.mu{
+  width:37.4px !important;
+  height:70px !important;
+}
+.mtwo{
+	width:141.23px !important;
+	height:60px !important;
+}
+.mfour{
+	width:226.13px !important;
+	height:60px !important;
+}
+.msix{
+	width:220.75px !important;
+	height:60px !important
+}
+.mseven{
+ width:90.28px !important;
+ height:60px !important;
+}
 .it{
     width:100px;
     height:100px;
+}
+.mthr{
+	width:205.57px;
+	height:60.78px;
 }
 @font-face {
   font-family: 'CustomFont'; /* Provide a name for your font */

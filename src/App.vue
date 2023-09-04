@@ -18,23 +18,25 @@ export default {
 <style>
 @font-face {
   font-family: 'CustomFont'; /* Provide a name for your font */
-  src: url('./assets/font/Inter-VariableFont_slnt\,wght.ttf') format('ttf');
+  src: url('./assets/font/Inter-Regular.otf') format('otf');
      
   font-weight: normal;
   font-style: normal;
 }
- *{
+ /* *{
 	font-family:'CustomFont';
   /* color:#258576; */
- }
+ /* } */ */
 *{
   padding: 0px ;
   MARGIN:0px ;
 }
+
 #app {
-  font-family: Avenir, Helvetica, Arial, sans-serif;
-  -webkit-font-smoothing: antialiased;
-  -moz-osx-font-smoothing: grayscale;
+
+  font-family: 'CustomFont' ;
+  /* -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale; 
   /* text-align: center; */
   
 }

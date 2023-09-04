@@ -3,7 +3,7 @@
     <div>
      
       <div class="container">
-        <h3 class="mt-5 fea">Featured Products</h3>
+        <h3 class="mt-5 fea te">Featured Products</h3>
       </div>
         <div id="carouselExampleControls" class="carousel carousel-dark slide" data-bs-ride="carousel">
   <div class="carousel-inner">
@@ -118,13 +118,13 @@ export default {
 </script>
 
 <style>
-@font-face {
+/* @font-face {
   font-family: 'Custom'; /* Provide a name for your font */
-  src: url('../assets/font/Millik\ Regular.otf') format('otf');
+  /* src: url('../assets/font/Millik\ Regular.otf') format('otf');
      
   font-weight: normal;
   font-style: normal;
-}
+} */ 
  .fea{
 	font-family:'Custom';
   color:#258576;
@@ -138,4 +138,16 @@ export default {
   .card{
     border:none !important;
   }
+  @font-face {
+  font-family: 'milki'; /* Provide a name for your font */
+  /* src: url('./assets/font/Inter-Regular.otf') format('otf'); */
+  src: url('../assets/font/Millik\ Regular.otf')format('otf');
+     
+  font-weight:normal;
+  font-style:normal;
+}
+ .te{
+	font-family:'milki' !important;
+   
+  } 
 </style>

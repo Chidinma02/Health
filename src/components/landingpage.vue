@@ -1,9 +1,9 @@
 <template>
-      <div class="container">
+      <div class="container te">
         <div class="row">
       <div class="col-md-6 col-12">
         <div class="ft mt-5">
-          <h2 class="mt-5">Our love for <span class="humanity">Humanity</span> drives our <span class="passion">passion</span>  for <span class="healthcare">healthcare.</span> </h2>
+          <h2 class="mt-5 te">Our love for <span class="humanity">Humanity</span> drives our <span class="passion">passion</span>  for <span class="healthcare">healthcare.</span> </h2>
         <br>
 
         </div>
@@ -37,6 +37,18 @@ export default {
 </script>
 
 <style>
+@font-face {
+  font-family: 'milki'; /* Provide a name for your font */
+  /* src: url('./assets/font/Inter-Regular.otf') format('otf'); */
+  src: url('../assets/font/Millik\ Regular.otf')format('otf');
+     
+  font-weight:normal;
+  font-style:normal;
+}
+ .te{
+	font-family:'milki' !important;
+   
+  } 
 .what{
   color:#D41420;
 }
@@ -71,16 +83,10 @@ color:#FCB912 !important;
 }
 h2{
   font-size: 50px !important;
-  font-family: 'CustomFont';
+  font-family: 'Custom' !important;
 
 }
-/* fonts.css */
-@font-face {
-  font-family: 'CustomFont'; /* Provide a name for your font */
-  src: url('../assets/font/Millik\ Regular.otf') format('otf');
-     
-  font-weight: normal;
-  font-style: normal;
-}
+
+
 
 </style>
