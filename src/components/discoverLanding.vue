@@ -50,13 +50,7 @@ export default {
   padding-bottom:10px !important;
   margin:0 !important
 }
-/* @font-face {
-  font-family: 'CustomFont'; /* Provide a name for your font */
-  /* src: url('../assets/font/Millik\ Regular.otf') format('otf');
-     
-  font-weight: normal;
-  font-style: normal;
-} */ 
+
 @font-face {
   font-family: 'milki'; /* Provide a name for your font */
   /* src: url('./assets/font/Inter-Regular.otf') format('otf'); */
