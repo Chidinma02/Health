@@ -10,14 +10,14 @@
     <div class="carousel-item active">
       <div class="card-wrapper container-sm d-flex  justify-content-around">
       <div class="card  " style="width: 18rem;">
-  <img src="../assets/1505464443958_medpl530_paracetamol_500_mg_10_strips-removebg-preview 1.png" class="card-img-top" alt="...">
+  <img src="../assets/para.png" class="card-img-top" alt="...">
   <div class="card-body">
     <h5 class="card-title">#1200 Paracetamol</h5>
     <p>pain relief</p>
     
   </div>
 </div><div class="card" style="width: 18rem;">
-  <img src="../assets/1505464443958_medpl530_paracetamol_500_mg_10_strips-removebg-preview 1.png" class="card-img-top" alt="...">
+  <img src="../assets/para.png" class="card-img-top" alt="...">
   <div class="card-body">
     <h5 class="card-title">#1200 Paracetamol</h5>
     <p>pain relief</p>
@@ -25,7 +25,7 @@
   </div>
         </div>
         <div class="card" style="width: 18rem;">
-  <img src="../assets/1505464443958_medpl530_paracetamol_500_mg_10_strips-removebg-preview 1.png" class="card-img-top" alt="...">
+  <img src="../assets/para.png" class="card-img-top" alt="...">
   <div class="card-body">
     <h5 class="card-title">#1200 Paracetamol</h5>
     <p>pain relief</p>
@@ -37,7 +37,7 @@
     <div class="carousel-item">
       <div class="card-wrapper container-sm d-flex   justify-content-around">
       <div class="card  " style="width: 18rem;">
-  <img src="../assets/1505464443958_medpl530_paracetamol_500_mg_10_strips-removebg-preview 1.png" class="card-img-top img-fluid" alt="...">
+  <img src="../assets/para.png" class="card-img-top img-fluid" alt="...">
   <div class="card-body">
     <!-- <h5 class="card-title">Card title</h5> -->
     <h5 class="card-title">#1200 Paracetamol</h5>
@@ -45,7 +45,7 @@
     
   </div>
 </div><div class="card" style="width: 18rem;">
-  <img src="../assets/1505464443958_medpl530_paracetamol_500_mg_10_strips-removebg-preview 1.png" class="card-img-top" alt="...">
+  <img src="../assets/para.png" class="card-img-top" alt="...">
   <div class="card-body">
     <h5 class="card-title">#1200 Paracetamol</h5>
     <p>pain relief</p>
@@ -54,7 +54,7 @@
   </div>
         </div>
         <div class="card" style="width: 18rem;">
-  <img src="../assets/1505464443958_medpl530_paracetamol_500_mg_10_strips-removebg-preview 1.png" class="card-img-top" alt="...">
+  <img src="../assets/para.png" class="card-img-top" alt="...">
   <div class="card-body">
     <h5 class="card-title">#1200 Paracetamol</h5>
     <p>pain relief</p>
@@ -67,21 +67,21 @@
     <div class="carousel-item">
       <div class="card-wrapper container-sm d-flex  justify-content-around">
       <div class="card " style="width: 18rem;">
-  <img src="../assets/1505464443958_medpl530_paracetamol_500_mg_10_strips-removebg-preview 1.png" class="card-img-top" alt="...">
+  <img src="../assets/para.png" class="card-img-top" alt="...">
   <div class="card-body">
     <h5 class="card-title">Card title</h5>
     
   </div>
 </div>
         <div class="card" style="width: 18rem;">
-  <img src="../assets/1505464443958_medpl530_paracetamol_500_mg_10_strips-removebg-preview 1.png" class="card-img-top" alt="...">
+  <img src="../assets/para.png" class="card-img-top" alt="...">
   <div class="card-body">
     <h5 class="card-title">Card title</h5>
     
   </div>
         </div>
         <div class="card" style="width: 18rem;">
-  <img src="../assets/1505464443958_medpl530_paracetamol_500_mg_10_strips-removebg-preview 1.png" class="card-img-top" alt="...">
+  <img src="../assets/para.png" class="card-img-top" alt="...">
   <div class="card-body">
     <h5 class="card-title">Card title</h5>
     
